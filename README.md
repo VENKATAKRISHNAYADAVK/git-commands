@@ -1,2 +1,3 @@
 # git-commands
-Git Commands For Using
+This Repo Gives The Information About 
+Git Commands For Using 
