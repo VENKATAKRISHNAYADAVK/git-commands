@@ -1,0 +1,10 @@
+ Git download 
+ open Gitbash
+ select the path where you have to create the application
+ git status
+ git add commands.doc
+ git commit -m 'fist version'
+ git status
+ git log
+ clear
+ git push
